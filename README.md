@@ -1,6 +1,4 @@
-Here's a comprehensive `README.md` for your GitHub repository based on your Shiny app code:
 
-```markdown
 # IEDB Epitope Dashboard
 
 ![Shiny](https://img.shields.io/badge/shiny-%2325A162.svg?style=for-the-badge&logo=r&logoColor=white)
